@@ -1,3 +1,5 @@
+#Autor(a): Marcelly Fonseca da Cruz
+
 #Estrutura do Projeto e dos Dados
 
 import pandas as pd
