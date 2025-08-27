@@ -1,3 +1,5 @@
+#Autor(a): Marcelly Fonseca da Cruz
+
 #Etapa 1: Estruturando os Dados
 
 estoque = [
