@@ -1,3 +1,5 @@
+#Autor(a): Marcelly Fonseca da Cruz
+
 print('Olá! Seja bem vindo ao Autoatendimento de Mobilidade Urbana de Belém!\nPara continuar o seu atendimento, precisamos que você insira algumas informações:')
 
 #Etapa 1: Coleta de dados
